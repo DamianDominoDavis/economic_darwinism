@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Mediterranean Avenue",
+        "color_group": "Brown",
+        "price": 60,
+        "base_rent": 2,
+        "house_rent": [10, 30, 90, 160],
+        "hotel_rent": 250,
+        "mortgage_value": 30
+    },
+    {
+        "name": "Baltic Avenue",
+        "color_group": "Brown",
+        "price": 60,
+        "base_rent": 4,
+        "house_rent": [20, 60, 180, 320],
+        "hotel_rent": 450,
+        "mortgage_value": 30
+    },
+    {
+        "name": "Boardwalk",
+        "color_group": "Blue",
+        "price": 400,
+        "base_rent": 50,
+        "house_rent": [200, 600, 1400, 1700],
+        "hotel_rent": 2000,
+        "mortgage_value": 200
+    }
+]
