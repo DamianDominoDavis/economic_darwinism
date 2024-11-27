@@ -1,4 +1,4 @@
-#social_darwinism#
+# economic_darwinism
 
 A hybrid maching learning approach to the board game Monopoly!
 
